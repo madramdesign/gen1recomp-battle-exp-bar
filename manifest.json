@@ -1,0 +1,17 @@
+{
+  "id": "battle_exp_bar",
+  "name": "Battle EXP Bar",
+  "version": "1.0.0",
+  "api": 2,
+  "entry": "main.lua",
+  "profile": "content",
+  "category": "UI",
+  "game_version": ">=0.1.0 <2.0.0",
+  "priority": 50,
+  "permissions": [
+    "engine_internals"
+  ],
+  "affects_link": false,
+  "description": "Shows a Gen 3+ style experience bar under the player's battle HP bar.",
+  "github": "madramdesign/gen1recomp-battle-exp-bar"
+}
