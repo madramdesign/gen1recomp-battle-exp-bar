@@ -11,7 +11,7 @@ A [Gen1Recomp](https://github.com/bryanthaboi/gen1recomp) mod that shows a Gen 3
 
 ## Install
 
-1. Download `battle_exp_bar-1.0.0.zip` from [Releases](../../releases)
+1. Download `battle_exp_bar-1.0.1.zip` from [Releases](../../releases)
 2. In Gen1Recomp: **F10** → **Import mod .zip**
 3. Enable **Battle EXP Bar** and restart if needed
 
